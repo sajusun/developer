@@ -12,7 +12,7 @@ body{
   align-items: center;
   justify-content: center;
   /*background: #5372F0;*/
-  background-image:url(/bg1.jpg);
+  background-image:url(bg1.jpg);
 }
 ::selection{
   color: #fff;
